@@ -1,14 +1,16 @@
 {
-  "main.css": "//ayush2098.github.io/mere-aayaam/static/css/main.e3212d7b.chunk.css",
-  "main.js": "//ayush2098.github.io/mere-aayaam/static/js/main.d014c1a0.chunk.js",
-  "main.js.map": "//ayush2098.github.io/mere-aayaam/static/js/main.d014c1a0.chunk.js.map",
+  "main.css": "//ayush2098.github.io/mere-aayaam/static/css/main.d4a28212.chunk.css",
+  "main.js": "//ayush2098.github.io/mere-aayaam/static/js/main.b2e5dbe6.chunk.js",
+  "main.js.map": "//ayush2098.github.io/mere-aayaam/static/js/main.b2e5dbe6.chunk.js.map",
   "runtime~main.js": "//ayush2098.github.io/mere-aayaam/static/js/runtime~main.2087e1ff.js",
   "runtime~main.js.map": "//ayush2098.github.io/mere-aayaam/static/js/runtime~main.2087e1ff.js.map",
-  "static/js/2.40f8dc76.chunk.js": "//ayush2098.github.io/mere-aayaam/static/js/2.40f8dc76.chunk.js",
-  "static/js/2.40f8dc76.chunk.js.map": "//ayush2098.github.io/mere-aayaam/static/js/2.40f8dc76.chunk.js.map",
+  "static/css/2.9d148def.chunk.css": "//ayush2098.github.io/mere-aayaam/static/css/2.9d148def.chunk.css",
+  "static/js/2.dac5c081.chunk.js": "//ayush2098.github.io/mere-aayaam/static/js/2.dac5c081.chunk.js",
+  "static/js/2.dac5c081.chunk.js.map": "//ayush2098.github.io/mere-aayaam/static/js/2.dac5c081.chunk.js.map",
   "index.html": "//ayush2098.github.io/mere-aayaam/index.html",
-  "precache-manifest.c719fa993a75720aa9a43d95008374a6.js": "//ayush2098.github.io/mere-aayaam/precache-manifest.c719fa993a75720aa9a43d95008374a6.js",
+  "precache-manifest.60edac2f1188910a8a278466e1ebdd02.js": "//ayush2098.github.io/mere-aayaam/precache-manifest.60edac2f1188910a8a278466e1ebdd02.js",
   "service-worker.js": "//ayush2098.github.io/mere-aayaam/service-worker.js",
-  "static/css/main.e3212d7b.chunk.css.map": "//ayush2098.github.io/mere-aayaam/static/css/main.e3212d7b.chunk.css.map",
+  "static/css/2.9d148def.chunk.css.map": "//ayush2098.github.io/mere-aayaam/static/css/2.9d148def.chunk.css.map",
+  "static/css/main.d4a28212.chunk.css.map": "//ayush2098.github.io/mere-aayaam/static/css/main.d4a28212.chunk.css.map",
   "static/media/logo.svg": "//ayush2098.github.io/mere-aayaam/static/media/logo.5d5d9eef.svg"
 }
