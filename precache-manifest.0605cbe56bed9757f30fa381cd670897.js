@@ -4,11 +4,15 @@ self.__precacheManifest = [
     "url": "//ayush2098.github.io/mere-aayaam/static/media/logo.5d5d9eef.svg"
   },
   {
+    "revision": "4ac7649824535c5e5f65f5662875bf84",
+    "url": "//ayush2098.github.io/mere-aayaam/static/media/bg1.4ac76498.jpg"
+  },
+  {
     "revision": "42cb4e86409b8174c1da",
     "url": "//ayush2098.github.io/mere-aayaam/static/js/runtime~main.2087e1ff.js"
   },
   {
-    "revision": "753f8d398495191d7dc5",
+    "revision": "bb91ed042ef537896b31",
     "url": "//ayush2098.github.io/mere-aayaam/static/js/main.b2e5dbe6.chunk.js"
   },
   {
@@ -16,15 +20,15 @@ self.__precacheManifest = [
     "url": "//ayush2098.github.io/mere-aayaam/static/js/2.dac5c081.chunk.js"
   },
   {
-    "revision": "753f8d398495191d7dc5",
-    "url": "//ayush2098.github.io/mere-aayaam/static/css/main.d4a28212.chunk.css"
+    "revision": "bb91ed042ef537896b31",
+    "url": "//ayush2098.github.io/mere-aayaam/static/css/main.3070e077.chunk.css"
   },
   {
     "revision": "cbeec9c0ef0abf573b52",
     "url": "//ayush2098.github.io/mere-aayaam/static/css/2.9d148def.chunk.css"
   },
   {
-    "revision": "5c3a259b85d2df94f233adaf85e610fd",
+    "revision": "8556f0b9944fd9a605650c88596cdc3b",
     "url": "//ayush2098.github.io/mere-aayaam/index.html"
   }
 ];

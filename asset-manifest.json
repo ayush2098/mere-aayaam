@@ -1,5 +1,5 @@
 {
-  "main.css": "//ayush2098.github.io/mere-aayaam/static/css/main.d4a28212.chunk.css",
+  "main.css": "//ayush2098.github.io/mere-aayaam/static/css/main.3070e077.chunk.css",
   "main.js": "//ayush2098.github.io/mere-aayaam/static/js/main.b2e5dbe6.chunk.js",
   "main.js.map": "//ayush2098.github.io/mere-aayaam/static/js/main.b2e5dbe6.chunk.js.map",
   "runtime~main.js": "//ayush2098.github.io/mere-aayaam/static/js/runtime~main.2087e1ff.js",
@@ -8,9 +8,10 @@
   "static/js/2.dac5c081.chunk.js": "//ayush2098.github.io/mere-aayaam/static/js/2.dac5c081.chunk.js",
   "static/js/2.dac5c081.chunk.js.map": "//ayush2098.github.io/mere-aayaam/static/js/2.dac5c081.chunk.js.map",
   "index.html": "//ayush2098.github.io/mere-aayaam/index.html",
-  "precache-manifest.60edac2f1188910a8a278466e1ebdd02.js": "//ayush2098.github.io/mere-aayaam/precache-manifest.60edac2f1188910a8a278466e1ebdd02.js",
+  "precache-manifest.0605cbe56bed9757f30fa381cd670897.js": "//ayush2098.github.io/mere-aayaam/precache-manifest.0605cbe56bed9757f30fa381cd670897.js",
   "service-worker.js": "//ayush2098.github.io/mere-aayaam/service-worker.js",
   "static/css/2.9d148def.chunk.css.map": "//ayush2098.github.io/mere-aayaam/static/css/2.9d148def.chunk.css.map",
-  "static/css/main.d4a28212.chunk.css.map": "//ayush2098.github.io/mere-aayaam/static/css/main.d4a28212.chunk.css.map",
+  "static/css/main.3070e077.chunk.css.map": "//ayush2098.github.io/mere-aayaam/static/css/main.3070e077.chunk.css.map",
+  "static/media/App.css": "//ayush2098.github.io/mere-aayaam/static/media/bg1.4ac76498.jpg",
   "static/media/logo.svg": "//ayush2098.github.io/mere-aayaam/static/media/logo.5d5d9eef.svg"
 }
